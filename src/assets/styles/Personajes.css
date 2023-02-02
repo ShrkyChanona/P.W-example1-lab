@@ -1,0 +1,15 @@
+.colums{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.character{
+    width: 33.3%;
+    text-align: center;
+    font-size: 2em;
+}
+
+.img{
+    border-radius: 50%;
+}

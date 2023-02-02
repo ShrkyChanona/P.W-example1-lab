@@ -1,0 +1,19 @@
+#div-container{
+    width: 100%;
+    height: 300px;
+    border: 2px aqua solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.div-child{
+    border: 2px black solid;
+    width: 30%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

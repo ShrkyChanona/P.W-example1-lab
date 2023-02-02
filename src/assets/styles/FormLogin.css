@@ -1,0 +1,26 @@
+.div-style{
+    width: 40vh;
+    height: 40vh;
+    margin-top: 15%;
+    margin-left: 40%;
+    background-color: gray;
+    border: 2px black solid;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+input{
+    color: white;
+    background-color: black;
+    border: 1px black solid;
+}
+
+.button{
+    background-color: greenyellow;
+    width: 50%;
+}
+
+.div-2{
+    text-align: center;
+}

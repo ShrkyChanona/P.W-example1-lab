@@ -1,0 +1,8 @@
+header{
+    border: 2px red solid;
+    background-color: rgb(26, 26, 28);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4px;
+}
