@@ -18,6 +18,7 @@ function FormLogin() {
     }
 
     const handlerChange = (e)=>{
+        //operador spreed: hace una union de con los valores de dos objetos conservando los que solo aparecen en el objeto original y remplazando los valores del objeto nuevo
         setStateForm({...stateForm,username: e.target.value});
     }
 
