@@ -1,5 +1,5 @@
-import FormRegister from "../components/atoms/FormRegister";
-import Title from "../components/atoms/Title";
+import FormRegister from "../atoms/FormRegister";
+import Title from "../atoms/Title";
 
 function Register() {
     return ( 

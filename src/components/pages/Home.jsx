@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import Header from "../components/atoms/Header";
-import ListStudent from "../components/Molecules/ListStudent";
+import Header from "../atoms/Header";
+import ListStudent from "../Molecules/ListStudent";
 
 
 function App(){
@@ -31,6 +31,7 @@ function App(){
         <Header/>
         <ListStudent listStudent={listStudent}/>
         <Link to="/login">Iniciar Sesion</Link>
+        <Link to="/rick"> api de rick</Link>
         </>
     )
 }

@@ -1,4 +1,4 @@
-import FlexExample from "../components/atoms/FlexExample";
+import FlexExample from "../atoms/FlexExample";
 
 function Flexbox() {
     return ( 
